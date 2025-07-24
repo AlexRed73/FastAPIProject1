@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/images/logo.png" alt="Logo">
+    <img src="Assets/Images/logo.png" alt="Logo">
   </a>
 
 <h3 align="center">FastOrders API</h3>
